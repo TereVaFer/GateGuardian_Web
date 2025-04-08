@@ -2,6 +2,7 @@
 
 <p text align: "justify";> Una aplicación web es un programa o software que se ejecuta en un navegador web, a través de Internet o una intranet. A diferencia de las aplicaciones tradicionales de escritorio, que se instalan y ejecutan en una computadora local, las aplicaciones web permiten el acceso remoto y ofrecen una experiencia de usuario que no depende de la plataforma del dispositivo. Las aplicaciones web son desarrolladas con tecnologías como HTML, CSS, JavaScript y pueden interactuar con servidores para almacenar y recuperar datos, como en una base de datos</p>
 
+
 ## Estructura de Archivos
 >| **- WEB**<br>
 
