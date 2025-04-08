@@ -19,4 +19,4 @@ Son archivos que no cambian durante la ejecución de la aplicación y son necesa
 | Teresa Vargas Fernández            | [@TereVaFer](https://github.com/TereVaFer)             | Frontend      |
 | Francisco Flores Amador            | [@JFFA25](https://github.com/JFFA25)                   | Base de datos |
 | Brisa Nallely Garcia Gregorio      | [@brisgregorio](https://github.com/Brisgregorio)       | Documentador  |
-| Edwin Hernandez Campos             | [@Edwincamp](https://github.com/Edwincamp) 
+| Edwin Hernandez Campos             | [@Edwincamp](https://github.com/Edwincamp)             | IoT           |
