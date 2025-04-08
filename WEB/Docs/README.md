@@ -10,9 +10,9 @@ Es un conjunto de registros y descripciones detalladas que abarcan todos los asp
 >| - Web <br>
   >| - CSS <br>
   >| **- Docs** <br>
-  >| - HTML
-  >| - JS
-  >| - assets
+  >| - HTML <br>
+  >| - JS <br>
+  >| - assets <br>
 
 ## Equipo de Desarrollo
 
@@ -22,4 +22,4 @@ Es un conjunto de registros y descripciones detalladas que abarcan todos los asp
 | Teresa Vargas Fernández            | [@TereVaFer](https://github.com/TereVaFer)             | Frontend      |
 | Francisco Flores Amador            | [@JFFA25](https://github.com/JFFA25)                   | Base de datos |
 | Brisa Nallely Garcia Gregorio      | [@brisgregorio](https://github.com/Brisgregorio)       | Documentador  |
-| Edwin Hernandez Campos             | [@Edwincamp
+| Edwin Hernandez Campos             | [@Edwincamp](https://github.com/Edwincamp)              |IoT           |
