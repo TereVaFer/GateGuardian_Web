@@ -1,10 +1,10 @@
 # GATEGUARDIAN
 ## Identidad gráfica
 #### Logo proyecto actual
-<img src="./" alt="GateGuardian" width="100%" height="100%">
+<img src="./gateguardianLogo.jpg" alt="GateGuardian" width="100%" height="100%">
 
 #### Logo del equipo / empresa
-<img src="./" alt="AllSafe" width="100%" height="100%">
+<img src="./Allsafe.jpg" alt="AllSafe" width="100%" height="100%">
 <hr>
 
 ## Descripción del proyecto 
@@ -52,7 +52,7 @@ Implementar un sistema inteligente de control de acceso a través de una aplicac
 
 ## Diagrama de GANTT
 <p align="justify">
-<img src="gantt_page-0001.jpg" alt="gant" width="100%" height="100%">
+<img src="./gantt.jpg" alt="gant" width="100%" height="100%">
 </p>
 <hr>
 
@@ -69,7 +69,7 @@ Implementar un sistema inteligente de control de acceso a través de una aplicac
 
 ## Organigrama
 
-<img src="organigrama.png" alt="organigrama" width="100%" height="100%">
+<img src="./organigrama.jpg" alt="organigrama" width="100%" height="100%">
 
 <hr>
 
