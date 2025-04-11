@@ -19,7 +19,7 @@
 
 ## 📷 Capturas de Pantalla
 ![Registro](assets/registro.png)!
-[Login](assets/login.png)
+[Login](/assets/login.png)
 ![Dashboard](assets/dashboard.png)
 ![notificaciones y alertas](assets/notifi.png)
 ![Tabla](assets/tabla.png)
