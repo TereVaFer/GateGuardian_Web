@@ -1,7 +1,7 @@
-# Requisitos No Funcionales
+# Requerimientos No Funcionales
 
 
-<p text align: "justify";>Los Requisitos No Funcionales (NFRs) son características que definen el comportamiento y las restricciones del sistema, pero no se refieren directamente a las funcionalidades específicas que el sistema debe realizar. En lugar de centrarse en lo que el sistema hace, los NFRs se enfocan en cómo debe funcionar el sistema. Estos requisitos son esenciales para garantizar que el sistema sea eficiente, seguro, escalable y accesible. Incluyen aspectos como el rendimiento, la seguridad, la usabilidad, la fiabilidad, la compatibilidad, la mantenibilidad y la disponibilidad del sistema.</p>
+<p text align: "justify";>Son características que definen el comportamiento y las restricciones del sistema, pero no se refieren directamente a las funcionalidades específicas que el sistema debe realizar. En lugar de centrarse en lo que el sistema hace, los NFRs se enfocan en cómo debe funcionar el sistema. Estos requisitos son esenciales para garantizar que el sistema sea eficiente, seguro, escalable y accesible. Incluyen aspectos como el rendimiento, la seguridad, la usabilidad, la fiabilidad, la compatibilidad, la mantenibilidad y la disponibilidad del sistema.</p>
 
 
 ## Estructura de Archivos
