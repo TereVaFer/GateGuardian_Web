@@ -18,12 +18,19 @@
 
 
 ## 📷 Capturas de Pantalla
-![Registro](GUI/Mockups/assets/registro.png)
-[Login](GUI/Mockups/assets/login.png)
-![Dashboard](GUI/Mockups/assets/dashboard.png)
-![notificaciones y alertas](assets/notifi.png)
-![Tabla](assets/tabla.png)
+
+![Sessions](assets/login.png)
+
+
+
+![Sessions](assets/registro.png)
+
+
+
+![Mockups](assets/dashboard.png)
 
 
 
 
+## Sessions:
+![Sessions](images/sessions.png)
