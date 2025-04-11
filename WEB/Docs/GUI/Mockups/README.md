@@ -18,7 +18,7 @@
 
 
 ## 📷 Capturas de Pantalla
-![Registro](assets/registro.png)!
+![Registro](WEB/Docs/GUI/Mockups/assets/registro.png)
 [Login](/assets/login.png)
 ![Dashboard](assets/dashboard.png)
 ![notificaciones y alertas](assets/notifi.png)
